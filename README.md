@@ -1,6 +1,2 @@
-# TrabalhoPOOPUCPR
-Atividade Somativaa matéria POO PUCPR
-
-Trabalho da Disciplina Introdução a programação orientada a objetos da PUCPR, Curso Tecnologia em Análise e Desenvolvimento de Sistemas 1º Período.
-
-Implementamos um sistema de financiamento para diferentes tipos de imóveis.
+# Sistema de Financiamento Imobiliário
+Criação de um sistema de financiamento imobiliário, utilizando Programação orientada a objetos, utilizando classes abstratas, herança, encapsulamento. 
